@@ -1,5 +1,3 @@
-package tutorial4;
-
 import com.google.gson.JsonParser;
 import org.apache.kafka.common.serialization.Serdes;
 import org.apache.kafka.streams.KafkaStreams;
